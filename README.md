@@ -28,7 +28,6 @@ An active Mistral API Key
 Setup
 <br>
 1. Clone the Repository
-git clone <your-repository-url>
 <br>
 2. Install Dependencies<br>
 Run the following command to install all required libraries:<br>
