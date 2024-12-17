@@ -26,8 +26,7 @@ Docker (for containerized deployment)
 An active Mistral API Key
 <br>
 Setup
-<br>
-1. Clone the Repository
+<br>1. Clone the Repository
 <br>
 2. Install Dependencies<br>
 Run the following command to install all required libraries:<br>
