@@ -1,4 +1,4 @@
-***RAG-based PDF QA System***
+**RAG-based PDF QA System**
 <br>
 Features
 <br>
@@ -28,8 +28,6 @@ An active Mistral API Key
 Setup
 <br>
 1. Clone the Repository
-bash
-Copy code
 git clone <your-repository-url>
 <br>
 2. Install Dependencies<br>
