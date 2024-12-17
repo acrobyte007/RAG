@@ -9,7 +9,7 @@ from PyPDF2 import PdfReader
 import pickle
 
 # Set Mistral API Key 
-MISTRAL_API_KEY = "S3vzsvK7rP5in24joHgL55dVCjqYSi1F"
+MISTRAL_API_KEY = "API_KEY"
 
 # Initialize SBERT model
 sbert_model = SentenceTransformer("all-MiniLM-L6-v2")
