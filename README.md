@@ -2,8 +2,10 @@
 This project allows users to upload PDF documents, extract meaningful chunks of text, generate embeddings using SBERT (all-MiniLM-L6-v2), store the embeddings in a FAISS index, and query the content using the Mistral API to generate answers to user questions.
 
 ***Features***<br>
-**PDF Upload:** Upload multiple PDF files and split them into meaningful text chunks.
-**Text Embedding:** Generate sentence embeddings using the all-MiniLM-L6-v2 model from Sentence Transformers.
+**PDF Upload:**<br>
+Upload multiple PDF files and split them into meaningful text chunks.
+**Text Embedding:**<br>
+Generate sentence embeddings using the all-MiniLM-L6-v2 model from Sentence Transformers.
 **FAISS Index:** Store and search embeddings efficiently using FAISS for nearest neighbor retrieval.
 **Mistral API Integration:** Send retrieved context to Mistral's API to generate accurate answers to user queries.
 **Project Management:** Dynamically create, delete, and manage projects.
